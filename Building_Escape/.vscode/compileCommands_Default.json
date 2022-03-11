@@ -1,0 +1,67 @@
+[
+	{
+		"file": "C:\\\\Users\\\\zackt\\\\Documents\\\\Unreal Projects\\\\BuildingEscape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\Building_Escape.Build.cs",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\zackt\\Documents\\Unreal Projects\\BuildingEscape\\Building_Escape\\.vscode\\compileCommands_Default\\Building_Escape.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\zackt\\\\Documents\\\\Unreal Projects\\\\BuildingEscape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\Building_Escape.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\zackt\\Documents\\Unreal Projects\\BuildingEscape\\Building_Escape\\.vscode\\compileCommands_Default\\Building_Escape.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\zackt\\\\Documents\\\\Unreal Projects\\\\BuildingEscape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\Building_Escape.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\zackt\\Documents\\Unreal Projects\\BuildingEscape\\Building_Escape\\.vscode\\compileCommands_Default\\Building_Escape.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\zackt\\\\Documents\\\\Unreal Projects\\\\BuildingEscape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\Building_EscapeGameModeBase.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\zackt\\Documents\\Unreal Projects\\BuildingEscape\\Building_Escape\\.vscode\\compileCommands_Default\\Building_Escape.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\zackt\\\\Documents\\\\Unreal Projects\\\\BuildingEscape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\Building_EscapeGameModeBase.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\zackt\\Documents\\Unreal Projects\\BuildingEscape\\Building_Escape\\.vscode\\compileCommands_Default\\Building_Escape.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\zackt\\\\Documents\\\\Unreal Projects\\\\BuildingEscape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\Grabber.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\zackt\\Documents\\Unreal Projects\\BuildingEscape\\Building_Escape\\.vscode\\compileCommands_Default\\Building_Escape.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\zackt\\\\Documents\\\\Unreal Projects\\\\BuildingEscape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\Grabber.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\zackt\\Documents\\Unreal Projects\\BuildingEscape\\Building_Escape\\.vscode\\compileCommands_Default\\Building_Escape.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\zackt\\\\Documents\\\\Unreal Projects\\\\BuildingEscape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\OpenDoor.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\zackt\\Documents\\Unreal Projects\\BuildingEscape\\Building_Escape\\.vscode\\compileCommands_Default\\Building_Escape.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\zackt\\\\Documents\\\\Unreal Projects\\\\BuildingEscape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\OpenDoor.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\zackt\\Documents\\Unreal Projects\\BuildingEscape\\Building_Escape\\.vscode\\compileCommands_Default\\Building_Escape.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\zackt\\\\Documents\\\\Unreal Projects\\\\BuildingEscape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\OpenSlidingDoor.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\zackt\\Documents\\Unreal Projects\\BuildingEscape\\Building_Escape\\.vscode\\compileCommands_Default\\Building_Escape.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\zackt\\\\Documents\\\\Unreal Projects\\\\BuildingEscape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\OpenSlidingDoor.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\zackt\\Documents\\Unreal Projects\\BuildingEscape\\Building_Escape\\.vscode\\compileCommands_Default\\Building_Escape.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\zackt\\\\Documents\\\\Unreal Projects\\\\BuildingEscape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\WorldPosition.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\zackt\\Documents\\Unreal Projects\\BuildingEscape\\Building_Escape\\.vscode\\compileCommands_Default\\Building_Escape.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\zackt\\\\Documents\\\\Unreal Projects\\\\BuildingEscape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\WorldPosition.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\zackt\\Documents\\Unreal Projects\\BuildingEscape\\Building_Escape\\.vscode\\compileCommands_Default\\Building_Escape.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	}
+]
